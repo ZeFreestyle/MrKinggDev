@@ -23,7 +23,7 @@
   <img alt="webstorm" width="60px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"/>
     <img alt="bootstrap" width="50px" src="https://img.icons8.com/color/452/bootstrap.png"/>
     <img alt="VSC" width="50px" src="https://framalibre.org/sites/default/files/styles/thumbnail/public/leslogos/Visual_Studio_Code_1.18_icon.png?itok=smeMcds3"/>
-  <img alt="Postman" width="100px" src="https://blog.qualys.com/wp-content/uploads/2020/10/postman.jpg"/>
+  <img alt="Postman" width="90px" src="https://blog.qualys.com/wp-content/uploads/2020/10/postman.jpg"/>
 </p>
   
 
