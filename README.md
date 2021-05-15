@@ -23,7 +23,7 @@
   <img alt="webstorm" width="60px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"/>
     <img alt="bootstrap" width="50px" src="https://img.icons8.com/color/452/bootstrap.png"/>
     <img alt="VSC" width="50px" src="https://framalibre.org/sites/default/files/styles/thumbnail/public/leslogos/Visual_Studio_Code_1.18_icon.png?itok=smeMcds3"/>
-  <img alt="Postman" width="50px" src="https://blog.qualys.com/wp-content/uploads/2020/10/postman.jpg"/>
+  <img alt="Postman" width="100px" src="https://blog.qualys.com/wp-content/uploads/2020/10/postman.jpg"/>
 </p>
   
 
@@ -42,5 +42,5 @@
   <img src="https://profile-counter.glitch.me/MrPandaDev/count.svg" />
 </p>
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrPandaDev&show_icons=true&hide_border=true" />
-<img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpandadev&show_icons=true&theme=tokyonight&layout=compact" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrKinggDev&show_icons=true&hide_border=true" />
+<img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrkinggdev&show_icons=true&theme=tokyonight&layout=compact" />
