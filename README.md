@@ -33,9 +33,8 @@
 
 
 ## 🚩 Projects:
-- [<img src="https://my.galaxiat.com/assets/img/logo.png" width="24"/> Galaxiat](https://discord.galaxiat.com)
-- [<img src="https://my.galaxiat.com/assets/img/logo.png" width="24"/> Galaxiat Hosting](https://galaxiat.com)
-
+- Studio Baguette
+- Target: BlackScorpion
 
 
 <p align="left"> 
