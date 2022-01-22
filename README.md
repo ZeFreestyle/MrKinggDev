@@ -14,7 +14,7 @@
   <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-lightgrey?style=flat-square&logo=Rust" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-blue?style=flat-square&logo=Lua" />
-  <img alt="Java" width="50px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Java" width="60px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   
 </p>
 
