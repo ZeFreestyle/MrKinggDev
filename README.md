@@ -1,6 +1,6 @@
 ### Hi, i'm MrKing.exe
 
-- 🔭 I’m currently working on [Galaxiat](https://discord.galaxiat.com)
+- 🔭 I’m currently working on a 
 - 📫 How to reach me: [Discord](https://discord.galaxiat.com)
 - 💻 I use [Postman](https://www.postman.com) for create a social network.
 - 🥖 I live in France
@@ -14,6 +14,7 @@
   <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-lightgrey?style=flat-square&logo=Rust" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-blue?style=flat-square&logo=Lua" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   
 </p>
 
@@ -24,7 +25,7 @@
   <img alt="webstorm" width="60px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"/>
     <img alt="bootstrap" width="50px" src="https://img.icons8.com/color/452/bootstrap.png"/>
     <img alt="VSC" width="50px" src="https://framalibre.org/sites/default/files/styles/thumbnail/public/leslogos/Visual_Studio_Code_1.18_icon.png?itok=smeMcds3"/>
-  <img alt="Postman" width="90px" src="https://blog.qualys.com/wp-content/uploads/2020/10/postman.jpg"/>
+  <img alt="IntelliJ" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/>
 </p>
   
 
